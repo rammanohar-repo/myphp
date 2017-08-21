@@ -3,6 +3,6 @@
   <title>PHP Test</title>
  </head>
  <body>
- <?php echo '<p>Hello PHP World!!!</p>'; ?> 
+ <h1>Welcome to an OpenShift Pipeline Application!!!</h1>
  </body>
 </html>
